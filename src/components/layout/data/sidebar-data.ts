@@ -61,6 +61,11 @@ export const sidebarData: SidebarData = {
           icon: IconChecklist,
         },
         {
+          title: 'Invoices',
+          url: '/invoices',
+          icon: IconBrowserCheck,
+        },
+        {
           title: 'Apps',
           url: '/apps',
           icon: IconPackages,
